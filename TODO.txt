@@ -1,0 +1,69 @@
+[ ] intro with casset veing inserted
+[ ] intro between level animation
+
+[ ] circle level with 90.00
+[ ] circle level with 45.00
+[ ] circle level with 22.50
+[ ] circle level with 11.25
+
+[ ] iron level with 3 fold
+[ ] iron level with 6 fold
+
+Maybe:
+[ ] dress up level ?
+[ ] invader style level ? but cucumber are the alien
+[ ] collect level where purin collect flans ?
+[ ] mario style level where purin jump on flan ?
+[ ] stay in the spot light level ?
+[ ] catch the froping flan level ?
+[ ] flan bowling ?
+
+
+Intro
+- TV apear
+- Tape inserted
+- TV on
+- Volume max
+
+Level 1
+- Dialog - It's morning, Wake Purin up and help her get ready for breakfast
+- Stop Me - 1.00x
+- Dress Up - Underwear
+- Shake It - Pudding Breakfast
+
+Level  2
+- Dialog - It's time to work, help purin get ready
+- Stop Me - Speed Up 1.25x
+- Iron It - Dress
+- Dress Speed Up (Dress and Sunglasses)
+
+Level  3
+- Dialog - Time do some actual work, help purin work on stuff
+- Stop Me - 1.50x
+- 
+- 
+
+Level  4
+- Dialog - Time to eat lunch
+- Stop Me - 1.75x
+- Attack it - Destroy the cucumber before someone force Purin to eat them (space invader style minigame)
+- Clean it - Clean the dishes (similar to Iron it in gameplay)
+
+Level  5
+- Dialog - Time to stream
+- Stop Me - 2.00x
+- Stomp it - Jump on the bad behaving flans
+- Spotlight - Keep Purin in the light so that the viewer see her
+
+Level  6
+- Dialog - Time to eat dinner
+- Stop Me - 2.25x
+- Dodge it - Dodge the cucumber before someone force Purin to eat them (jump the cucumber)
+- Clean it - Clean the dishes (similar to Iron it in gameplay)
+
+Outro 
+- Dialog - You won, see you next time.
+- Volume low
+- TV off
+- Video Tape removed
+
